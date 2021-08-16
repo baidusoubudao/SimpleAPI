@@ -12,7 +12,7 @@ namespace Commander.Data
 
     public DbSet<Command> Commands {get;set;}
 
-
+//test
     }
 
 }
